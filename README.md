@@ -10,8 +10,8 @@
 
 ## 总结
 
-- [Windows 开发利器](/blog/article/windows-coding-tool.html)
-- [2014 年终总结](/blog/article/2014-summary.html)
+- [博客使用指南](/blog/article/use-gh-blog.html)
 
 # 说明
-这是我的个人博客文章，成长记录。
+
+又一个 gh-blog 博客。
